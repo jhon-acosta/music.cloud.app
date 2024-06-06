@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Real Gangsta Love",
+    "artista": "Trueno",
+    "album": "El último baile",
+    "ruta": "https://music-cloud.s3.us-east-2.amazonaws.com/Trueno+-+REAL+GANGSTA+LOVE+(Visualizer)+(320).mp3"
+  },
+  {
+    "nombre": "Perro Negro",
+    "artista": "Bad Bunny · Feid",
+    "album": "Nadie sabe lo que va a pasar mañana",
+    "ruta": "https://music-cloud.s3.us-east-2.amazonaws.com/BAD+BUNNY+ft.+FEID+-+PERRO+NEGRO+(Visualizer)+_+nadie+sabe+lo+que+va+a+pasar+ma%C3%B1ana+(320).mp3"
+  },
+  {
+    "nombre": "La Vida Sin Ti",
+    "artista": "Rels B · Lia Kali",
+    "album": "A new star (1 9 9 3)",
+    "ruta": "https://music-cloud.s3.us-east-2.amazonaws.com/Rels+B%2C+Lia+Kali+-+La+Vida+Sin+Ti+_+a+new+star+(1+9+9+3)+(320).mp3"
+  },
+  {
+    "nombre": "Volvernos a Amar",
+    "artista": "Lia Kali · Nanpa Básico",
+    "album": "Single",
+    "ruta": "https://music-cloud.s3.us-east-2.amazonaws.com/LIA+KALI+%26+NANPA+B%C3%81SICO+-+Volvernos+a+Amar+(videoclip)+prod.+Toni+Anzis+(320).mp3"
+  },
+  {
+    "nombre": "Tengo fe",
+    "artista": "Feid",
+    "album": "La mafia",
+    "ruta": "https://music-cloud.s3.us-east-2.amazonaws.com/Feid+-+TENGO+FE+(Audio)+(320).mp3"
+  }
+]

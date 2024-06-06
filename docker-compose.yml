@@ -1,0 +1,14 @@
+services:
+  music-cloud.app:
+    image: music-cloud.app
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        NEXT_PUBLIC_PG_HOST: ''
+        NEXT_PUBLIC_PG_PORT: ''
+        NEXT_PUBLIC_PG_USER: ''
+        NEXT_PUBLIC_PG_PASS: ''
+        NEXT_PUBLIC_PG_DB: ''
+    ports:
+      - '3000:3000'
